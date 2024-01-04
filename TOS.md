@@ -43,7 +43,7 @@ CONTACT US
 You can reach us at contact@nabi.health for any questions about these Terms, your use of the app or website, or any other concerns. 
 
 NABI HEALTH | PRIVACY POLICY
-Effective Date: [to be added]
+Effective Date: [to be added
 INTRODUCTION
 The Privacy Policy (“Policy”), along with the Terms of Service, governs your use of the mobile application and website provided by NABI Health Private Limited (“NABI, our, us, we”). 
 This Policy explains how NABI uses, protects and shares any data you provide when you use NABI’s app and website. We are committed to providing clear disclosures on your data use and protecting your privacy. 
