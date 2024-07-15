@@ -77,4 +77,4 @@ We will notify you of any material changes to the Policy. You should check this 
 
 ### CONTACT US 
 
-You can reach us at [contact@nabi.health](mailto:contact@nabi.health) for any questions about the Policy, your use of the app or website, or any other concerns. 
+You can reach us at [reachout@nabi.health](mailto:reachout@nabi.health) for any questions about the Policy, your use of the app or website, or any other concerns. 

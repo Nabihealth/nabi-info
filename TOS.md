@@ -57,5 +57,5 @@ These Terms, including any disputes concerning our Services, will be governed by
 
 ### CONTACT US
 
-You can reach us at contact@nabi.health for any questions about these Terms, your use of the app or website, or any other concerns. 
+You can reach us at reachout@nabi.health for any questions about these Terms, your use of the app or website, or any other concerns. 
 
